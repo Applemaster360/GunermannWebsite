@@ -20,8 +20,8 @@
     </head>
     <body id="page">
         <ul class="cb-slideshow">
-            <li><span>Image 01</span><div><h3>Ms. Gundermann</h3></div></li>
-            <!--<li><span>Image 02</span><div><h3>Ms. Gundermann</h3></div></li>
+           <!-- <li><span>Image 01</span><div><h3>Ms. Gundermann</h3></div></li>
+            <li><span>Image 02</span><div><h3>Ms. Gundermann</h3></div></li>
             <li><span>Image 03</span><div><h3>Ms. Gundermann</h3></div></li>
             <li><span>Image 04</span><div><h3>Ms. Gundermann</h3></div></li>
             <li><span>Image 05</span><div><h3>Ms. Gundermann</h3></div></li>
@@ -35,20 +35,18 @@
               <a href="#"> 
               	Designed and Coded: <strong> Web Designing Club </strong>
               </a>
-                </span>
+                #</span>
                 <div class="clr"></div>
             </div>
             <header>
-                <h1> <span>Ms. Gundermann's Homepage</span></h1>
+                <!--<h1> <span>Ms. Gundermann's Homepage</span></h1>
                 
                 <h1> 
 <img src="resources/Big_G.png" width= "200"> 
 
 </h1> 
                 
-                <h2>some words to waste space</h2>
-                
-                <!-- -->
+                <h2>some words to waste space</h2>-->
              <div class="content">
                 <ul class="bmenu">
                 <h1> Hi </h1>

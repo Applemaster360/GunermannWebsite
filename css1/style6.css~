@@ -7,7 +7,7 @@
     position: relative;
 }
 .bmenu li{
-    font-size: 50px;
+    font-size: 30x; #50
     display: block;
 }
 .bmenu li a{
